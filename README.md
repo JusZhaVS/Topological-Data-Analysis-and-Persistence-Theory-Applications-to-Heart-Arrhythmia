@@ -1,0 +1,2 @@
+# Topological-Data-Analysis-and-Persistence-Theory-Applications-to-Heart-Arrhythmia
+This is the codebase corresponding to my paper "Topological Data Analysis and Persistence Theory Applications to Heart Arrhythmia" published in JSM Proceedings of the American Statistical Association, describing a way to use a combination of statistical and Machine Learning techniques to detect heart abnormalities. 
