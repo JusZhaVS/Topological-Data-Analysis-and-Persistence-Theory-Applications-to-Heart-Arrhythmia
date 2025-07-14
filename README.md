@@ -1,6 +1,6 @@
 # Topological Data Analysis for Heart Arrhythmia Detection
 
-This codebase corresponds to my paper "Topological Data Analysis and Persistence Theory Applications to Heart Arrhythmia" published in the JSM Proceedings of the American Statistical Association, where I used a combination of machine learning ensemble models and the relatively new but expanding area of topological data analysis for the detection of different forms of heart arrhythmia (heart abnormalities).
+This codebase corresponds to my paper "Topological Data Analysis and Persistence Theory Applications to Heart Arrhythmia" published in the JSM Proceedings of the American Statistical Association, where I used a combination of machine learning ensemble models and the relatively new but expanding area of topological data analysis for the detection of different forms of heart arrhythmia (heart abnormalities). The full paper publication can be found here: https://zenodo.org/records/8336475. 
 
 It is a full Python implementation pipeline using Topological Data Analysis (TDA) methods for cardiac arrhythmia detection, achieving state-of-the-art performance by leveraging machine learning and a variety of mathematical tools and libraries to extract geometric/topological features from ECG signals. The main database that I used in this project was the MIT Physionet database, a widely recognized and well-regarded resource within the biomedical research community that is used as a baseline dataset for many research papers.
 
