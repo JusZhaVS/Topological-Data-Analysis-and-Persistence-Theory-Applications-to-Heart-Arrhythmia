@@ -1,0 +1,24 @@
+# Minimal requirements for core TDA functionality
+# Install with: pip install -r requirements-minimal.txt
+
+# Core Scientific Computing
+numpy>=1.21.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+
+# Basic Visualization
+matplotlib>=3.4.0
+
+# Essential TDA Libraries
+ripser>=0.6.0           # Fast persistence computation
+persim>=0.3.0           # Persistence diagram tools
+
+# Medical Data Access
+wfdb>=4.0.0             # PhysioNet databases
+
+# Basic Utilities
+joblib>=1.1.0           # Parallel processing
+tqdm>=4.62.0            # Progress bars
+
+# Testing (optional but recommended)
+pytest>=7.0.0
