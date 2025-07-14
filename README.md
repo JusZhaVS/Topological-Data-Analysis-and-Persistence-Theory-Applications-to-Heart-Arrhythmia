@@ -17,25 +17,25 @@ This package implements the TDA pipeline described in advanced cardiac analysis 
 
 ## Key Features
 
-### 🔬 Core TDA Pipeline
+### Core TDA Pipeline
 - Mutual information-based time delay selection
 - False Nearest Neighbors for embedding dimension optimization
 - Multiple persistence computation backends (Ripser, GUDHI, Giotto-TDA)
 - Comprehensive topological feature extraction
 
-### 📊 Advanced Features
+### Advanced Features
 - Persistence landscapes and images for CNN processing
 - Topological triangles and vector representations
 - Multi-parameter persistence analysis
 - Bootstrap confidence intervals for robustness
 
-### 🏥 Medical Applications
+### Medical Applications
 - PhysioNet database integration (MIT-BIH, CUDB, CEBSDB)
 - Real-time arrhythmia detection capability
 - Clinical performance metrics and validation
 - Noise-robust analysis with topology preservation
 
-### 🤖 Machine Learning
+### Machine Learning
 - Specialized TDA classifiers with topological kernels
 - DeepSets architecture for permutation-invariant learning
 - Ensemble methods optimized for cardiac signals
@@ -277,8 +277,7 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 - PhysioNet for providing open-access cardiac databases
-- The Ripser, GUDHI, and Giotto-TDA teams for excellent TDA software
-- The cardiac electrophysiology research community
+- The Ripser, GUDHI, and Giotto-TDA teams for excellent TDA software that I heavily utilized in this project.
 
 ---
 
